@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="EII Retro Gamer" target="intro"/>
+  <tocitem text="Actions">
+    <tocitem text="Register" target="register"/>
+    <tocitem text="Play game" target="play"/>
+    <tocitem text="Select prizes" target="select"/>
+    <tocitem text="Save delivery" target="save"/>
+  </tocitem>
+
+</toc>
